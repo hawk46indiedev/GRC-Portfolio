@@ -25,7 +25,7 @@ I build clear, actionable deliverables that bridge technical controls with busin
 #### 1. Enterprise Risk Assessment Framework (Highest Value)
 - Created full **Risk Assessment Policy** for a fictional financial services company
 - Built professional **Risk Register** (15+ risks) with likelihood × impact scoring, heat map, and mitigation plans
-- [View Corporate Information Security Policy](corporate_security_policy.md.md)
+- [View Corporate Information Security Policy](https://github.com/hawk46indiedev/GRC-Portfolio/blob/main/documents/corporate_security_policy.md)
 - [View Risk Register](./projects/risk-register.xlsx)
 
 #### 2. SOC 2 Security Policy
